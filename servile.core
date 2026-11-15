@@ -2,7 +2,6 @@ CAPI=2:
 
 name : award-winning:serv:servile:1.4.0
 description: Convenience wrapper for SERV
-license: ISC
 
 filesets:
   rtl:

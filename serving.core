@@ -2,7 +2,6 @@ CAPI=2:
 
 name : award-winning:serv:serving:1.4.0
 description: SERV-based subsystem for FPGAs
-license: ISC
 
 filesets:
   rtl:

@@ -2,7 +2,6 @@ CAPI=2:
 
 name : award-winning:serv:servant:1.4.0
 description: Simple reference system for SERV
-license: ISC
 
 filesets:
   # Common filesets
